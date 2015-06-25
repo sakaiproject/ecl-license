@@ -3,6 +3,8 @@
 This is a packaging of the ECL 2 license for the maven license plugin on codehaus. This allows projects to update
 their licenses automatically as part of the build and not require each project to have it's own copy of the license.
 
+http://www.mojohaus.org/license-maven-plugin
+
 ## Usage 
 
 To use the maven license plugin with the ECL license add the following plugin to the `pom.xml`
